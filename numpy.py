@@ -25,7 +25,7 @@ a.dtype
 a.itemesize
 #no of elements
 a.size
-#total memory size of all whole array
+#total memory size of a whole array
 a.nbytes
 #to access an element
 b[1,2]
